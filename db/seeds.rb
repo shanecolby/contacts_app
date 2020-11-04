@@ -1,4 +1,4 @@
-contact = Contactlog.new(first_name: "Mike", last_name: "Keyboard", email: "mikekey@yahoo.com", phone_number: "1234323452")
+contact = Contactlog.new(first_name: "Jake", last_name: "Statefarm", email: "jakefromsf@yahoo.com", phone_number: "1234323132")
 
 contact.save
 
