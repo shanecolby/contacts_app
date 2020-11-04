@@ -1,0 +1,7 @@
+{
+  id: @contactlog.id,
+  first_name: @contactlog.first_name,
+  last_name: @contactlog.last_name,
+  email: @contactlog.email,
+  phone_number: @contactlog.phone_number
+}
