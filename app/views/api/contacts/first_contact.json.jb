@@ -4,4 +4,5 @@
   last_name: @contactlog.last_name,
   email: @contactlog.email,
   phone_number: @contactlog.phone_number
+  
 }
