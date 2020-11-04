@@ -1,0 +1,2 @@
+class Contactlog < ApplicationRecord
+end
